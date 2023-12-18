@@ -33,6 +33,10 @@
 
 <h1 align="center">hey there 👋</h1>
 
+<div align="center">
+  <img height="150" src="https://github.com/Cynor2020/Cynor2020/blob/main/1702884478525%20(2).jpg"  />
+</div>
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
