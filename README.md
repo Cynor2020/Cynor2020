@@ -122,7 +122,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Cynor2020/Cynor2020/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
