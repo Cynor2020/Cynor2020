@@ -33,9 +33,7 @@
 
 <h1 align="center">hey there 👋</h1>
 
-<div align="center">
-  <img height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBnJdL17KIQ3Johzce4wH6syCgeAw4CWrUWalbjbAm46cTdyaI-sSCK5Lvfgn8yTpEQ5K8UbPgOo0j8E2cxnbVfTtY07JMdZ5q85k3gBdK9UEoWKhV5_NAOfOJsKJ7SbUKzjwgBwbj_sodqGMS6KZPHfnku5sfyB3fQbGaSqITeBl2zgZfhyphenhyphenkoyVo-b90f/s320/1702884478525.jpg"  />
-</div>
+
 
 ###
 
