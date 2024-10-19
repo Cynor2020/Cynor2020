@@ -7,7 +7,7 @@
 </div>
 <br>
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐞𝐛 𝐬𝐲𝐬𝐭𝐞𝐦 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞<br>👯 𝐈’𝐦 𝐁.𝐓𝐞𝐜𝐡 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐝𝐚𝐭𝐚 𝐬𝐜𝐢𝐞𝐧𝐜𝐞<br>🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠  𝐑𝐞𝐚𝐜𝐭.𝐣𝐬 & 𝐍𝐨𝐝𝐞.𝐣𝐬<br>💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭<br>⚡ 𝐌𝐲 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬 𝐂𝐘𝐍𝐎𝐑 <br> <br> <br> CYNOR Custom Web Development Services Include Both Front-End And Back-End Development. Whether It Is Enhancing An Existing App Or Architecting An Enterprise App, Our Developers Are Up For The Challenge.
 
  [Company Website](http:cynor.rf.gd)
