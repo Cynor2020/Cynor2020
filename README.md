@@ -26,7 +26,7 @@
 <a href="https://twitter.com/sarthakgadakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthakgadakh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarthak-gadakh-founder-cynor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-gadakh-founder-cynor" height="30" width="40" /></a>
 <a href="https://instagram.com/sarthak_gadakh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthak_gadakh__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cynorofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cynorofficial" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@Cynorofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cynorofficial" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sarthakgadakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthakgadakh" height="30" width="40" /></a>
 </p>
 
